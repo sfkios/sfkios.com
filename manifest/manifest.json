@@ -1,0 +1,28 @@
+{
+  "short_name": "SFKIOS",
+  "name": "SFKIOS",
+  "description": "Agen Pulsa Murah, Kuota Murah Sidoarjo Jawa Timur, Situs Isi Ulang Pulsa Online, Server Pulsa H2H Termurah, Termudah dan Terpercaya , Transaksi 24 Jam Nonstop",
+  "version": "0.1",
+  "background_color": "#3570D2",
+  "theme_color": "#3570D2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/sfkios/sfkios.com@main/favicon/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/sfkios/sfkios.com@main/favicon/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/sfkios/sfkios.com@main/favicon/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/"
+}
